@@ -1,0 +1,12 @@
+/*******************************
+        Global Overrides
+*******************************/
+
+/* ----- Beginning of overrides for darken ----- */
+
+body {
+  background: rgba(32, 32, 32, 1);
+  color: rgba(255, 255, 255, 0.87);
+}
+
+/* ----- End of overrides for darken ----- */

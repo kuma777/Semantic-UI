@@ -1,0 +1,20 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+/* ----- Beginning of overrides for darken ----- */
+
+.ui.tabular.menu .item {
+  color: rgba(255, 255, 255, 0.87);
+}
+.ui.tabular.menu .item:hover {
+  color: rgba(255, 255, 255, 0.87);
+}
+.ui.tabular.menu .active.item {
+  color: rgba(0, 0, 0, 0.87);
+}
+.ui.tabular.menu .active.item:hover {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+/* ----- End of overrides for darken ----- */

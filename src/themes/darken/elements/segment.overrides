@@ -1,0 +1,11 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+/* ----- Beginning of overrides for darken ----- */
+
+.ui.segment {
+  background: rgba(48, 48, 48, 1);
+}
+
+/* ----- End of overrides for darken ----- */
